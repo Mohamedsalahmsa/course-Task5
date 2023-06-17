@@ -1,0 +1,24 @@
+
+/* on move the object in web change other color or background etc */
+:hover {
+    /* some css */
+    }
+    /* The :active pseudo-class represents the current state of the element. It is used to style elements that are being activated by the user. */
+:active {
+    /* some css */
+ }
+    /* The :focus pseudo-class represents the state of an element when it has received focus. It is used to style elements that have received focus. */
+    :focus {
+    /* some css */
+ }
+    
+/* The :target pseudo-class represents the element that has been targeted by the browser. It is used to style elements that have been targeted by the browser. */
+    :target {
+    /* some css */
+    }
+    /* The :visited pseudo-class represents an element that has been visited by the user. It is used to style elements that have been visited by the user. */
+    :visited {
+    /* some css */
+    }
+
+
